@@ -1,0 +1,10 @@
+X X X X 6 X X X X X
+X S S W P 0 W F F X
+X S W W P 0 W W F X
+X W W P P 0 0 W W X
+X 0 P W W W W 0 0 X
+X 0 P W K B W 0 0 X
+X 0 P W W W W 0 0 X
+X 0 P P P 0 0 0 0 X
+X 0 0 0 P 0 0 0 0 X
+X X X X 2 X X X X X

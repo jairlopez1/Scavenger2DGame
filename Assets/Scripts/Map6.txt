@@ -1,0 +1,10 @@
+X X X X X X X X X X
+X W W W Q Q W W W X
+X E W W W W W W E X
+X 0 0 0 W W 0 0 0 X
+X 0 0 0 P P 0 0 0 X
+X 0 0 0 P P 0 0 0 X
+X 0 0 0 P P 0 0 0 X
+X 0 0 0 P P 0 0 0 X
+X 0 0 0 P P 0 0 0 X
+X X X X 5 X X X X X
